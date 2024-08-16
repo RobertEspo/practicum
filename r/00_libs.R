@@ -1,0 +1,7 @@
+library('knitr')
+library('tidyverse')
+library('here')
+library('kableExtra')
+library('treemap')
+library('ggrepel')
+library("rmarkdown")

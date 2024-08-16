@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Introduction: Interning at the Manhattan District Attorney's Office's Language Unit}{5}{}%
+\contentsline {section}{\numberline {2}Interpreting Experiences, Challenges and Lessons Learned}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Language Variation}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Fulfilling Interpreting Ethics}{7}{}%
+\contentsline {subsection}{\numberline {2.3}Managing the Flow of Conversation}{8}{}%
+\contentsline {subsection}{\numberline {2.4}Notetaking}{9}{}%
+\contentsline {subsection}{\numberline {2.5}Transcription and Translation Services}{10}{}%
+\contentsline {section}{\numberline {3}Timetables}{11}{}%
+\contentsline {section}{\numberline {4}Conclusions}{21}{}%
+\contentsline {section}{\numberline {A}Sample Translation 1: Appeal}{22}{}%
+\contentsline {subsection}{\numberline {A.1}Sample Translation 1: Appeal (source text)}{23}{}%
+\contentsline {subsection}{\numberline {A.2}Sample Translation 1: Appeal (target text)}{26}{}%
+\contentsline {section}{\numberline {B}Sample Translation 2: Subpoena Response}{30}{}%
+\contentsline {subsection}{\numberline {B.1}Sample Translation 2: Subpoena Response (source text)}{30}{}%
+\contentsline {subsection}{\numberline {B.2}Sample Translation 2: Subpoena Response (target text)}{32}{}%
